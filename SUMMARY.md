@@ -1,8 +1,13 @@
 # Table of contents
 
-## INTRODUCTION TO CHATS&#x20;
+## INTRODUCTION TO CHATS
 
 * [INTRODUCTION](README.md)
+* [About CHATS](introduction-to-chats/about-chats/README.md)
+  * [Mission Statement](introduction-to-chats/about-chats/mission-statement.md)
+  * [Vision Statement](introduction-to-chats/about-chats/vision-statement.md)
+  * [Community Statement](introduction-to-chats/about-chats/community-statement.md)
+  * [Licence](introduction-to-chats/about-chats/licence.md)
 
 ## CHATS PRODUCTS AND SERVICES
 
@@ -47,7 +52,7 @@
 * [FIGMA DESIGN](https://app.gitbook.com/o/pavs8G3MpkCbXmVIsBRm/s/lnZSplCcrPKdQLf7qfnh/project-management/figma-design)
 * [Trello Board](https://trello.com/b/d85Qsh5f)
 
-## Troubleshoot&#x20;
+## Troubleshoot
 
 * [🔧 Tools](troubleshoot/tools.md)
 * [🛂 Contribute](troubleshoot/contribute/README.md)
