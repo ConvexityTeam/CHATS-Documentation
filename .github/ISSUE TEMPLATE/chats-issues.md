@@ -6,9 +6,3 @@ labels: ''
 assignees: JayJosh846
 
 ---
-
-Please describe the issue.
-
-### Examples
-
-Please provide an example.
