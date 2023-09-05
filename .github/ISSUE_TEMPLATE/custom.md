@@ -1,6 +1,6 @@
 ---
-name: CHATS Documentation
-about: This is CHATS Documentation
+name: CHATS Issues
+about: This is CHATS Issues
 title: '[Request]'
 labels: ''
 assignees: JayJosh846
