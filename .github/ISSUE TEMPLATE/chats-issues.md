@@ -1,7 +1,7 @@
 ---
 name: CHATS Documentation
 about: This is CHATS Documentation
-title: '[Request]'
+title: ''
 labels: ''
 assignees: JayJosh846
 
