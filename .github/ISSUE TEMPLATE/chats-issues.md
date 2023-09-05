@@ -1,9 +1,9 @@
 ---
-name: 'CHATS Documentation'
-about: 'This is CHATS Documentation'
+name: CHATS Documentation
+about: This is CHATS Documentation
 title: '[Request]'
 labels: ''
-assignees: ''
+assignees: JayJosh846
 
 ---
 
