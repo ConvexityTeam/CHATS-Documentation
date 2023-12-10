@@ -18,7 +18,7 @@ Supported Browsers:
 A Web Browser is required to:
 
 1. Open a Web Browser: Launch a web browser on your computer or mobile device. Popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
-2. Enter the URL "[https://staging-donor.chats.cash/](https://staging-donor.chats.cash/)"  for the CHATS Donor application.
+2. Enter the URL "[https://donor.chats.cash/](https://donor.chats.cash/)"  for the CHATS Donor application.
 3. Press Enter Button <img src="../../.gitbook/assets/enter.png" alt="" data-size="line">. Make sure to enter the complete URL, including the protocol (e.g., "http://" or "https://").
 4. Wait for Loading. The web browser will load the CHATS Donor web application's homepage.  Depending on the speed of your internet connection, it may take a few moments to load.
 5. Interact with the Web Application.
