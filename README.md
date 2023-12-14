@@ -7,7 +7,7 @@ coverY: 0
 
 ## OVERVIEW
 
-CHATS, a product of Convexity, is geared towards aiding the transparent distribution of conditional and unconditional voucher cash assistance or aid to vulnerable beneficiaries and communities at large. The platform built on the blockchain, aims to fight against fraudulent practices and give the Donors and NGOs visibility and certainty of funds reaching the desired target.&#x20;
+CHATS, a product of Convexity, is geared towards aiding the transparent distribution of conditional and unconditional cash voucher assistance or aid to vulnerable beneficiaries and communities at large. The platform built on the blockchain, aims to fight against fraudulent practices and give the Donors and NGOs visibility and certainty of funds reaching the desired target.&#x20;
 
 ## OBJECTIVES&#x20;
 
