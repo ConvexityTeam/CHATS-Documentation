@@ -7,7 +7,7 @@ coverY: 0
 
 ## OVERVIEW
 
-CHATS, a product of Convexity, is geared towards aiding the transparent distribution of conditional and unconditional voucher cash assistance or aid to vulnerable communities and families via Blockchain tokens and Cryptocurrencies. The platform is built to fight against fraudulent practices and give the Donors, NGOs, Beneficiaries, and Vendors visibility and certainty of funds reaching the desired target. Bantu Blockchain has been integrated as one of the ways Donors and NGOs can disburse funds to Beneficiaries onboarded on the platform either via the self-pre-onboarding Beneficiaries app or the NGO Field onboarding app.&#x20;
+CHATS, a product of Convexity, is geared towards aiding the transparent distribution of conditional and unconditional voucher cash assistance or aid to vulnerable beneficiaries and communities at large. The platform built on the blockchain, aims to fight against fraudulent practices and give the Donors and NGOs visibility and certainty of funds reaching the desired target.&#x20;
 
 ## OBJECTIVES&#x20;
 
